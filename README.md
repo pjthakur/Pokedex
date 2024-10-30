@@ -19,8 +19,4 @@ Created using Nextjs, Pokedex lets you search for Pokemons using specific TRPC r
 
 -  **UI/UX**: Modern UI/UX using MaterialUI and Tailwind.
 
-# Pokedex Setup and Run Guide 
-
-## Prerequisites 
-- Node.js installed 
-- PostgreSQL and Redis set up (or access to external services) 
+-  **Responsiveness**: Implemented a resposive UI for a seamless experience on any device
